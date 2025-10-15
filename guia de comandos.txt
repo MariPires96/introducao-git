@@ -10,5 +10,5 @@ git push origin main
 
 * agora estamos na branch nova
 
-git checkou -b devs
+git checkout -b dev
 
